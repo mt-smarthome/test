@@ -1,76 +1,22 @@
 #EXTM3U
-#EXTINF:0,ОТР HD
+#EXTINF:0,ОТР +2
 #EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/20018/index.m3u8
-#EXTINF:0,Первый канал FHD
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2402/index.m3u8
-#EXTINF:0,Первый канал HD
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/204/index.m3u8
-#EXTINF:0,Первый канал
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/127/index.m3u8
-#EXTINF:0,Первый канал +2
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/714/index.m3u8
-#EXTINF:0,Первый канал +4
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6021/index.m3u8
-#EXTINF:0,Первый канал +4 HD
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15117/index.m3u8
-#EXTINF:0,Первый канал +6
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6037/index.m3u8
-#EXTINF:0,Первый канал +8
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6050/index.m3u8
-#EXTINF:0,Россия 1 FHD
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2409/index.m3u8
-#EXTINF:0,Россия 1 HD
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/205/index.m3u8
-#EXTINF:0,Россия 1
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/504/index.m3u8
-#EXTINF:0,Россия 1 +2
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6011/index.m3u8
-#EXTINF:0,Россия 1 +4
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6022/index.m3u8
-#EXTINF:0,Россия 1 +6
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6038/index.m3u8
-#EXTINF:0,Россия 1 +8
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6051/index.m3u8
-#EXTINF:0,НТВ HD
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/213/index.m3u8
-#EXTINF:0,НТВ Хит HD
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/16062/index.m3u8
-#EXTINF:0,НТВ Мир
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/14035/index.m3u8
-#EXTINF:0,НТВ
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/501/index.m3u8
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6014/index.m3u8
 #EXTINF:0,НТВ +2
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/713/index.m3u8
 #EXTINF:0,НТВ +4
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6024/index.m3u8
-#EXTINF:0,НТВ +7
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6039/index.m3u8
 #EXTINF:0,НТВ +8
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6053/index.m3u8
+#EXTINF:0,НТВ Хит HD
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/16062/index.m3u8
+#EXTINF:0,НТВ Мир
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/14035/index.m3u8
 #EXTINF:0,ТВЦ
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/520/index.m3u8
@@ -80,9 +26,6 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/716/index.m3u8
 #EXTINF:0,ТВЦ +4
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6027/index.m3u8
-#EXTINF:0,ТВЦ +7
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6041/index.m3u8
 #EXTINF:0,ТВЦ +8
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6056/index.m3u8
@@ -95,15 +38,21 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/746/index.m3u8
 #EXTINF:0,Пятый канал +4
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6025/index.m3u8
-#EXTINF:0,Пятый канал +7
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6040/index.m3u8
 #EXTINF:0,Пятый канал +8
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6054/index.m3u8
 #EXTINF:0,Мир HD
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15119/index.m3u8
+#EXTINF:0,Мир
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/113/index.m3u8
+#EXTINF:0,Мир +2
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6019/index.m3u8
+#EXTINF:0,Мир +4
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6034/index.m3u8
 #EXTINF:0,ТНТ FHD
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2417/index.m3u8
@@ -116,9 +65,6 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/502/index.m3u8
 #EXTINF:0,ТНТ +4
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6035/index.m3u8
-#EXTINF:0,ТНТ +7
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6049/index.m3u8
 #EXTINF:0,СТС
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/506/index.m3u8
@@ -134,6 +80,9 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6043/index.m3u8
 #EXTINF:0,РЕН ТВ HD
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2024/index.m3u8
+#EXTINF:0,РЕН ТВ HD orig
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9002/index.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/128/index.m3u8
@@ -143,30 +92,6 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/747/index.m3u8
 #EXTINF:0,РЕН ТВ +4
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6028/index.m3u8
-#EXTINF:0,РЕН ТВ +7
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6042/index.m3u8
-#EXTINF:0,Мир
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/113/index.m3u8
-#EXTINF:0,Мир +2
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6019/index.m3u8
-#EXTINF:0,Мир +4
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6034/index.m3u8
-#EXTINF:0,Мир +7
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6048/index.m3u8
-#EXTINF:0,ОТР
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/705/index.m3u8
-#EXTINF:0,ОТР +2
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6014/index.m3u8
-#EXTINF:0,ОТР +4
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6026/index.m3u8
 #EXTINF:0,Звезда Плюс HD
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/19230/index.m3u8
@@ -179,15 +104,15 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/739/index.m3u8
 #EXTINF:0,Звезда +4
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6033/index.m3u8
-#EXTINF:0,Звезда +7
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6047/index.m3u8
 #EXTINF:0,СТС Love
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/103/index.m3u8
 #EXTINF:0,Че!
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/513/index.m3u8
+#EXTINF:0,Че! orig
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9101/index.m3u8
 #EXTINF:0,ТВ-3 HD
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/5033/index.m3u8
@@ -200,9 +125,6 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6017/index.m3u8
 #EXTINF:0,ТВ-3 +4
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6031/index.m3u8
-#EXTINF:0,ТВ-3 +7
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6045/index.m3u8
 #EXTINF:0,Пятница! HD
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/5031/index.m3u8
@@ -215,9 +137,6 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6018/index.m3u8
 #EXTINF:0,Пятница! +4
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6032/index.m3u8
-#EXTINF:0,Пятница! +7
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6046/index.m3u8
 #EXTINF:0,RTVi
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2086/index.m3u8
@@ -248,15 +167,12 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/534/index.m3u8
 #EXTINF:0,ТНТ4
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/104/index.m3u8
-#EXTINF:0,КВН ТВ
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/546/index.m3u8
-#EXTINF:0,Сарафан
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/748/index.m3u8
 #EXTINF:0,Московское образование HD
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/16043/index.m3u8
+#EXTINF:0,Сарафан
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/748/index.m3u8
 #EXTINF:0,Точка ТВ
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2053/index.m3u8
@@ -275,9 +191,6 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2016/index.m3u8
 #EXTINF:0,Здоровое ТВ
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2022/index.m3u8
-#EXTINF:0,Психология
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2025/index.m3u8
 #EXTINF:0,Успех
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2041/index.m3u8
@@ -296,9 +209,6 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2116/index.m3u8
 #EXTINF:0,БСТ
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2108/index.m3u8
-#EXTINF:0,Красная линия
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2147/index.m3u8
 #EXTINF:0,ЛДПР ТВ
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2110/index.m3u8
@@ -317,15 +227,9 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2073/index.m3u8
 #EXTINF:0,Россия К
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/505/index.m3u8
-#EXTINF:0,РЕН ТВ HD orig
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9002/index.m3u8
 #EXTINF:0,Gametoon HD
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/5049/index.m3u8
-#EXTINF:0,НТВ HD orig
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9028/index.m3u8
 #EXTINF:0,Ратник HD
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2119/index.m3u8
@@ -335,12 +239,6 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9031/index.m3u8
 #EXTINF:0,360 HD orig
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9036/index.m3u8
-#EXTINF:0,ТВЦ orig
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9095/index.m3u8
-#EXTINF:0,Пятый канал orig
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9096/index.m3u8
 #EXTINF:0,Звезда orig
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9098/index.m3u8
@@ -350,12 +248,6 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15115/index.m3u8
 #EXTINF:0,СТС Love orig
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9099/index.m3u8
-#EXTINF:0,ОТР orig
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9100/index.m3u8
-#EXTINF:0,Че! orig
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9101/index.m3u8
 #EXTINF:0,RTVi HD orig
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9102/index.m3u8
@@ -410,30 +302,15 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9117/index.m3u8
 #EXTINF:0,Красная линия orig
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9119/index.m3u8
-#EXTINF:0,ЛДПР ТВ orig
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9120/index.m3u8
 #EXTINF:0,Хузур ТВ HD orig
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9121/index.m3u8
 #EXTINF:0,Вместе-РФ orig
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9124/index.m3u8
-#EXTINF:0,Первый канал orig
+#EXTINF:0,Первый канал +2 (Уфа)
 #EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9201/index.m3u8
-#EXTINF:0,Россия 1 orig
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9202/index.m3u8
-#EXTINF:0,Россия 1 HD 50
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15133/index.m3u8
-#EXTINF:0,НТВ orig
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9203/index.m3u8
-#EXTINF:0,ТНТ orig
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9204/index.m3u8
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15301/index.m3u8
 #EXTINF:0,РЕН ТВ orig
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9205/index.m3u8
@@ -449,21 +326,12 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9208/index.m3u8
 #EXTINF:0,360 orig
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9209/index.m3u8
-#EXTINF:0,Мир orig
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9211/index.m3u8
 #EXTINF:0,Загородный orig
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/9212/index.m3u8
 #EXTINF:0,ТНТ HD orig
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/7251/index.m3u8
-#EXTINF:0,Россия 1 HD orig
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/7252/index.m3u8
-#EXTINF:0,Первый канал HD orig
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/7253/index.m3u8
 #EXTINF:0,Звезда Плюс
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/10059/index.m3u8
@@ -482,18 +350,9 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15230/index.m3u8
 #EXTINF:0,Россия 1 +1 (Приволжье)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15284/index.m3u8
-#EXTINF:0,Первый канал +4 (Алтай)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15287/index.m3u8
 #EXTINF:0,Россия 1 +4 (Алтай)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15288/index.m3u8
-#EXTINF:0,НТВ +4 (Алтай)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15290/index.m3u8
-#EXTINF:0,Пятый канал +4 (Алтай)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15291/index.m3u8
 #EXTINF:0,СТС +4 (Алтай)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15293/index.m3u8
@@ -512,9 +371,6 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15297/index.m3u8
 #EXTINF:0,ТНТ +4 (Алтай)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15298/index.m3u8
-#EXTINF:0,Первый канал +2 (Уфа)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15301/index.m3u8
 #EXTINF:0,Россия 1 +2 (Уфа)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15302/index.m3u8
@@ -524,9 +380,6 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15303/index.m3u8
 #EXTINF:0,ТНТ +2 (Уфа)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15304/index.m3u8
-#EXTINF:0,НТВ +2 (Уфа)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15305/index.m3u8
 #EXTINF:0,Звезда +2 (Уфа)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15306/index.m3u8
@@ -539,42 +392,21 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15309/index.m3u8
 #EXTINF:0,Россия 1 +0 (Липецк)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15313/index.m3u8
-#EXTINF:0,НТВ +0 (Липецк)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15315/index.m3u8
-#EXTINF:0,Пятый канал +2 (Уфа)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15316/index.m3u8
 #EXTINF:0,Домашний +2 (Уфа)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15317/index.m3u8
-#EXTINF:0,Пятый канал +0 (Липецк)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15318/index.m3u8
 #EXTINF:0,ТВ-3 +2 (Уфа)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15319/index.m3u8
-#EXTINF:0,ТВЦ +2 (Уфа)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15320/index.m3u8
 #EXTINF:0,Домашний +0 (Невинномысск)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15321/index.m3u8
-#EXTINF:0,НТВ +0 (Невинномысск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15322/index.m3u8
-#EXTINF:0,Первый канал +0 (Невинномысск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15323/index.m3u8
 #EXTINF:0,Россия 1 +0 (Невинномысск)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15324/index.m3u8
 #EXTINF:0,Пятница! +0 (Невинномысск)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15325/index.m3u8
-#EXTINF:0,Пятый канал +0 (Невинномысск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15326/index.m3u8
 #EXTINF:0,РЕН ТВ +0 (Невинномысск)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15327/index.m3u8
@@ -590,27 +422,12 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15331/index.m3u8
 #EXTINF:0,ТНТ +0 (Невинномысск)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15332/index.m3u8
-#EXTINF:0,Первый канал +7 (Владивосток)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15333/index.m3u8
 #EXTINF:0,Россия 1 +7 (Владивосток)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15334/index.m3u8
-#EXTINF:0,НТВ +7 (Владивосток)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15336/index.m3u8
-#EXTINF:0,Пятый канал +7 (Владивосток)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15337/index.m3u8
 #EXTINF:0,Россия К +7 (Владивосток)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15338/index.m3u8
-#EXTINF:0,ОТР +7 (Владивосток)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15341/index.m3u8
-#EXTINF:0,ТВЦ +7 (Владивосток)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15342/index.m3u8
 #EXTINF:0,РЕН ТВ +7 (Владивосток)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15343/index.m3u8
@@ -629,9 +446,6 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15347/index.m3u8
 #EXTINF:0,Звезда +7 (Владивосток)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15348/index.m3u8
-#EXTINF:0,Мир +7 (Владивосток)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15349/index.m3u8
 #EXTINF:0,ТНТ +7 (Владивосток)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15350/index.m3u8
@@ -656,24 +470,18 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15367/index.m3u8
 #EXTINF:0,БСТ +2 (Нефтекамск)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15369/index.m3u8
+#EXTINF:0,РЕН ТВ +0 (Белгород)
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15480/index.m3u8
 #EXTINF:0,БСТ +2 (Белорецк)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15370/index.m3u8
 #EXTINF:0,БТК HD (Белорецк)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15371/index.m3u8
-#EXTINF:0,ТВЦ +0 (Липецк)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15372/index.m3u8
-#EXTINF:0,Пятница! +0 (Липецк)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15373/index.m3u8
 #EXTINF:0,ТНТ +0 (Липецк)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15374/index.m3u8
-#EXTINF:0,Первый канал +0 (Липецк)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15375/index.m3u8
 #EXTINF:0,СТС +4 (Кузбасс)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15376/index.m3u8
@@ -689,132 +497,81 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15380/index.m3u8
 #EXTINF:0,Звезда +3 (Омск)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15381/index.m3u8
-#EXTINF:0,Мир +3 (Омск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15382/index.m3u8
 #EXTINF:0,ТНТ +3 (Омск)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15383/index.m3u8
-#EXTINF:0,НТВ +2 (Нефтекамск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15384/index.m3u8
-#EXTINF:0,Первый канал +4 (Томск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15385/index.m3u8
-#EXTINF:0,Россия 1 +4 (Томск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15386/index.m3u8
-#EXTINF:0,НТВ +4 (Томск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15388/index.m3u8
-#EXTINF:0,Пятый канал +4 (Томск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15389/index.m3u8
-#EXTINF:0,ТВЦ +4 (Томск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15391/index.m3u8
 #EXTINF:0,РЕН ТВ +4 (Томск)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15392/index.m3u8
-#EXTINF:0,СТС +4 (Томск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15393/index.m3u8
 #EXTINF:0,Домашний +4 (Томск)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15394/index.m3u8
 #EXTINF:0,ТВ-3 +4 (Томск)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15395/index.m3u8
+#EXTINF:0,Пятница! +0 (Липецк)
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15373/index.m3u8
 #EXTINF:0,Пятница! +4 (Томск)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15396/index.m3u8
-#EXTINF:0,ТНТ +4 (Томск)
+#EXTINF:0,Пятница! +0 (Белгород)
 #EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15398/index.m3u8
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15427/index.m3u8
+#EXTINF:0,Пятница! +3 (Омск)
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15440/index.m3u8
+#EXTINF:0,Пятница! +0 (Тамбов)
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15472/index.m3u8
+#EXTINF:0,Пятница! +2 (Нефтекамск)
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15483/index.m3u8
 #EXTINF:0,Звезда +4 (Томск)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15397/index.m3u8
 #EXTINF:0,Россия 1 +0 (Алания)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15403/index.m3u8
-#EXTINF:0,Россия 1 +0 (Белгород)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15408/index.m3u8
-#EXTINF:0,НТВ +0 (Белгород)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15410/index.m3u8
-#EXTINF:0,Пятый канал +0 (Белгород)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15411/index.m3u8
-#EXTINF:0,Россия 1 +5 (Иркутск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15413/index.m3u8
-#EXTINF:0,Россия 1 +4 (Красноярск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15415/index.m3u8
-#EXTINF:0,Прима (Красноярск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15417/index.m3u8
-#EXTINF:0,ТВК (Красноярск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15420/index.m3u8
-#EXTINF:0,ТВ-3 +0 (Белгород)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15426/index.m3u8
-#EXTINF:0,Пятница! +0 (Белгород)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15427/index.m3u8
-#EXTINF:0,ТНТ +0 (Белгород)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15428/index.m3u8
-#EXTINF:0,Первый канал +3 (Омск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15431/index.m3u8
-#EXTINF:0,НТВ +3 (Омск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15433/index.m3u8
-#EXTINF:0,Пятый канал +3 (Омск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15434/index.m3u8
-#EXTINF:0,Россия К +3 (Омск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15435/index.m3u8
-#EXTINF:0,ТВЦ +3 (Омск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15437/index.m3u8
-#EXTINF:0,РЕН ТВ +3 (Омск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15438/index.m3u8
-#EXTINF:0,СТС +3 (Омск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15439/index.m3u8
-#EXTINF:0,Пятница! +3 (Омск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15440/index.m3u8
-#EXTINF:0,Первый канал +0 (Элиста)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15443/index.m3u8
 #EXTINF:0,Россия К +2 (Пермь)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15445/index.m3u8
 #EXTINF:0,Россия 1 +0 (Элиста)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15447/index.m3u8
-#EXTINF:0,НТВ +0 (Элиста)
+#EXTINF:0,Россия 1 +0 (Тамбов)
 #EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15449/index.m3u8
-#EXTINF:0,Пятый канал +0 (Элиста)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15450/index.m3u8
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15465/index.m3u8
 #EXTINF:0,Россия К +0 (Элиста)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15451/index.m3u8
-#EXTINF:0,ТВЦ +0 (Элиста)
+#EXTINF:0,Россия К +3 (Омск)
 #EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15454/index.m3u8
-#EXTINF:0,РЕН ТВ +0 (Элиста)
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15435/index.m3u8
+#EXTINF:0,Россия 1 +0 (Белгород)
 #EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15455/index.m3u8
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15408/index.m3u8
+#EXTINF:0,Россия 1 +4 (Красноярск)
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15415/index.m3u8
+#EXTINF:0,ТВ-3 +0 (Белгород)
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15426/index.m3u8
+#EXTINF:0,Россия 1 +5 (Иркутск)
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15413/index.m3u8
+#EXTINF:0,Первый канал +0 (Тамбов)
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15464/index.m3u8
+#EXTINF:0,СТС +3 (Омск)
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15439/index.m3u8
+#EXTINF:0,СТС +2 (Нефтекамск)
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15482/index.m3u8
+#EXTINF:0,СТС +0 (Белгород)
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15479/index.m3u8
 #EXTINF:0,СТС +0 (Элиста)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15456/index.m3u8
@@ -824,84 +581,27 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15457/index.m3u8
 #EXTINF:0,Звезда +0 (Элиста)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15458/index.m3u8
-#EXTINF:0,Мир +0 (Элиста)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15459/index.m3u8
-#EXTINF:0,ТНТ +0 (Элиста)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15460/index.m3u8
-#EXTINF:0,ТНТ +2 (Белорецк)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15462/index.m3u8
-#EXTINF:0,Первый канал +0 (Тамбов)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15464/index.m3u8
-#EXTINF:0,Россия 1 +0 (Тамбов)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15465/index.m3u8
-#EXTINF:0,НТВ +0 (Тамбов)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15466/index.m3u8
-#EXTINF:0,Пятый канал +0 (Тамбов)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15467/index.m3u8
 #EXTINF:0,РЕН ТВ +0 (Тамбов)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15469/index.m3u8
-#EXTINF:0,СТС +0 (Тамбов)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15470/index.m3u8
 #EXTINF:0,Домашний +0 (Тамбов)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15471/index.m3u8
-#EXTINF:0,Пятница! +0 (Тамбов)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15472/index.m3u8
-#EXTINF:0,ТНТ +0 (Тамбов)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15473/index.m3u8
-#EXTINF:0,ОТВ (Владивосток)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15476/index.m3u8
 #EXTINF:0,Домашний +0 (Белгород)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15477/index.m3u8
-#EXTINF:0,СТС +0 (Белгород)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15479/index.m3u8
-#EXTINF:0,РЕН ТВ +0 (Белгород)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15480/index.m3u8
-#EXTINF:0,Первый канал +2 (Нефтекамск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15481/index.m3u8
-#EXTINF:0,СТС +2 (Нефтекамск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15482/index.m3u8
-#EXTINF:0,Пятница! +2 (Нефтекамск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15483/index.m3u8
 #EXTINF:0,ТВ-3 +2 (Нефтекамск)
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15484/index.m3u8
-#EXTINF:0,ТНТ +2 (Нефтекамск)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15485/index.m3u8
-#EXTINF:0,Первый канал +2 (Белорецк)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15486/index.m3u8
 #EXTINF:0,Дождь HD
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/20083/index.m3u8
-#EXTINF:0,Trece HD ES
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/31885/index.m3u8
-#EXTINF:0,ТВЦ +0 (Ставрополь)
-#EXTGRP:Общие
-http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/31892/index.m3u8
 #EXTINF:0,Патриот
 #EXTGRP:Общие
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/31928/index.m3u8
+#EXTINF:0,СТС +0 (Тамбов)
+#EXTGRP:Общие
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15470/index.m3u8
 #EXTINF:0,VB Сваты HD
 #EXTGRP:Serien
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/31624/index.m3u8
@@ -974,6 +674,54 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/20039/index.m3u8
 #EXTINF:0,13th Street HD DE
 #EXTGRP:Sky
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/31281/index.m3u8
+#EXTINF:0,ОТР
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/705/index.m3u8
+#EXTINF:0,ОТР +4
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6026/index.m3u8
+#EXTINF:0,Первый канал HD
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/204/index.m3u8
+#EXTINF:0,Первый канал +6
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6037/index.m3u8
+#EXTINF:0,Первый канал +8
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6050/index.m3u8
+#EXTINF:0,Россия 1 FHD
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2409/index.m3u8
+#EXTINF:0,Россия 1 HD
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/205/index.m3u8
+#EXTINF:0,Россия 1
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/504/index.m3u8
+#EXTINF:0,Россия 1 +2
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6011/index.m3u8
+#EXTINF:0,Россия 1 +4
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6022/index.m3u8
+#EXTINF:0,Россия 1 +6
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6038/index.m3u8
+#EXTINF:0,Первый канал HD orig
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/7253/index.m3u8
+#EXTINF:0,Первый канал +0 (Невинномысск)
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15323/index.m3u8
+#EXTINF:0,Первый канал +7 (Владивосток)
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15333/index.m3u8
+#EXTINF:0,Первый канал +4 (Томск)
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15385/index.m3u8
+#EXTINF:0,Первый канал +3 (Омск)
+#EXTGRP:Allgemein
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15431/index.m3u8
 #EXTINF:0,Мосфильм. Золотая коллекция +4 HD
 #EXTGRP:Кино
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/17022/index.m3u8
@@ -7808,3 +7556,30 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/31744/index.m3u8
 #EXTINF:0,Bolt HD UA
 #EXTGRP:Украина | Українські
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/31793/index.m3u8
+#EXTINF:0,РЕН ТВ +0 (Элиста)
+#EXTGRP:скрытые
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15455/index.m3u8
+#EXTINF:0,ТНТ +4 (Томск)
+#EXTGRP:
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15398/index.m3u8
+#EXTINF:0,СТС +4 (Томск)
+#EXTGRP:
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15393/index.m3u8
+#EXTINF:0,Россия 1 +4 (Томск)
+#EXTGRP:
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15386/index.m3u8
+#EXTINF:0,Звезда +7
+#EXTGRP:
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6047/index.m3u8
+#EXTINF:0,ТВ-3 +7
+#EXTGRP:
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6045/index.m3u8
+#EXTINF:0,Пятница! +7
+#EXTGRP:
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/6046/index.m3u8
+#EXTINF:0,Психология
+#EXTGRP:
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/2025/index.m3u8
+#EXTINF:0,Первый канал +4 (Алтай)
+#EXTGRP:
+http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/15287/index.m3u8
