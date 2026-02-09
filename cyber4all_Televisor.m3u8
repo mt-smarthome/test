@@ -5,4 +5,7 @@ http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/127/index.m3u8
 #EXTINF:0,Россия 1 HD
 #EXTGRP:Allgemein
 http://8b2edb06.cbilant.com/iptv/BPF4ZGKQZNLL6N/205/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия 1 HD
+#EXTGRP:Общие
+http://dtnndwp3.rostelekom.xyz/iptv/TW6HHRQABZUAP4/205/index.m3u8
 
