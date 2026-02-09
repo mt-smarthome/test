@@ -17,6 +17,12 @@ http://dtnndwp3.rostelekom.xyz/iptv/TW6HHRQABZUAP4/501/index.m3u8
 #EXTINF:0 tvg-rec="7",ТВЦ
 #EXTGRP:Общие
 http://dtnndwp3.rostelekom.xyz/iptv/TW6HHRQABZUAP4/520/index.m3u8
+#EXTINF:0 tvg-rec="7",Россия 1
+#EXTGRP:Общие
+http://dtnndwp3.rostelekom.xyz/iptv/TW6HHRQABZUAP4/504/index.m3u8
+#EXTINF:0 tvg-rec="7",НТВ HD
+#EXTGRP:Общие
+http://dtnndwp3.rostelekom.xyz/iptv/TW6HHRQABZUAP4/213/index.m3u8
 
 
 
